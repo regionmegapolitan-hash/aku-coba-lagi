@@ -1,0 +1,6 @@
+{
+  "name": "SI-SESI: Sistem Verifikasi Sesi Mengajar & Rekap Sesi",
+  "description": "Aplikasi pengecekan dan verifikasi real-time sesi mengajar untuk Admin Keuangan, Staf Lokasi, dan Guru dengan sinkronisasi spreadsheet, notifikasi, dan ekspor PDF/CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
